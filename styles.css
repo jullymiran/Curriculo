@@ -91,7 +91,9 @@ p {
 
 
 #contato .redes {
-    margin-right: 16px;
+     margin-right: 16px;
+     width: 80px;
+     display: block;
 }
 
 
