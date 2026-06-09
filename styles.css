@@ -99,6 +99,7 @@ p {
 
 footer {
     padding: 20px;
+    font-size: smaller;
     text-align: center;
     border-top: 2px solid black;
 }
